@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there 👋, Im psychobytes a.k.a. blackcat
+
+- 🌱 I’m currently learning cybersecurity (pentest, soc)
+
+Tryhackme Badge : <br>
+<img src="https://tryhackme-badges.s3.amazonaws.com/psychobytes.png" alt="TryHackMe Badge" /> 
+
 
 <!--
 **psychobytes/psychobytes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
