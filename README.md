@@ -2,8 +2,8 @@
 
 - 🌱 I’m currently learning cybersecurity (pentest, soc)
 
-Tryhackme Badge : <br>
-<img src="https://tryhackme-badges.s3.amazonaws.com/psychobytes.png" alt="TryHackMe Badge" /> 
+Tryhackme Badge : <br><br>
+<img src="https://tryhackme-badges.s3.amazonaws.com/psychobytes.png" alt="TryHackMe Badge" />
 
 
 <!--
