@@ -14,8 +14,7 @@ I am committed to continuously learning and growing in this field. Every day is 
 💼 **Currently:**
 I am still in college and looking for opportunities to apply my skills in the real world. If you have interesting projects, collaboration or job opportunities, feel free to reach out to me!
 
-📝 **My Blogs:**
-- [cybrgrnd.my.id](https://cybrgrnd.my.id)
+📝 **My Blogs:** [cybrgrnd.my.id](https://cybrgrnd.my.id)
 
 🧑‍💻 **My Badges:**
 - <img src="https://www.hackthebox.eu/badge/image/1009617" alt="HackTheBox Badge" style="width: 200px;"><br>
