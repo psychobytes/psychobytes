@@ -3,8 +3,10 @@
 - 🌱 I’m currently learning cybersecurity (pentest, red team)
 
 Badge : <br><br>
-<img src="https://tryhackme-badges.s3.amazonaws.com/psychobytes.png" alt="TryHackMe Badge" />
 ![psychobytes](https://www.hackthebox.eu/badge/image/1009617)
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/psychobytes.png" alt="TryHackMe Badge" />
+
 
 <!--
 **psychobytes/psychobytes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
