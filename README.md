@@ -2,10 +2,10 @@
 
 - 🌱 I’m currently learning cybersecurity (pentest, red team)
 
-Badge : <br><br>
+Badge :
 ![psychobytes](https://www.hackthebox.eu/badge/image/1009617)
 
-<img style="max-width: 220px;" src="https://tryhackme-badges.s3.amazonaws.com/psychobytes.png" alt="TryHackMe Badge" />
+<img style="max-width: 220px; height: auto;" src="https://tryhackme-badges.s3.amazonaws.com/psychobytes.png" alt="TryHackMe Badge" />
 
 
 <!--
