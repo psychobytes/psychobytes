@@ -1,4 +1,4 @@
-### 👋 Hello, I'm psycbobytes / blackcat !
+### 👋 Hello, I'm psychobytes / blackcat !
 
 I am a passionate student in the field of **cybersecurity**, particularly in **penetration testing** and **red teaming**. I believe that cybersecurity is one of the most important aspects of the digital world today.
 
